@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/RENATO RODRIGUEZ/Desktop/sem4_1/heads.h
+iostream
+-
+vector
+-
+algorithm
+-
+p146.h
+/cygdrive/c/Users/RENATO RODRIGUEZ/Desktop/sem4_1/p146.h
+p229.h
+/cygdrive/c/Users/RENATO RODRIGUEZ/Desktop/sem4_1/p229.h
+p482.h
+/cygdrive/c/Users/RENATO RODRIGUEZ/Desktop/sem4_1/p482.h
+p612.h
+/cygdrive/c/Users/RENATO RODRIGUEZ/Desktop/sem4_1/p612.h
+
+/cygdrive/c/Users/RENATO RODRIGUEZ/Desktop/sem4_1/main.cpp
+iostream
+-
+heads.h
+/cygdrive/c/Users/RENATO RODRIGUEZ/Desktop/sem4_1/heads.h
+
+/cygdrive/c/Users/RENATO RODRIGUEZ/Desktop/sem4_1/p146.h
+vector
+-
+algorithm
+-
+string
+-
+
+/cygdrive/c/Users/RENATO RODRIGUEZ/Desktop/sem4_1/p229.h
+vector
+-
+string
+-
+iostream
+-
+algorithm
+-
+
+/cygdrive/c/Users/RENATO RODRIGUEZ/Desktop/sem4_1/p482.h
+vector
+-
+algorithm
+-
+iostream
+-
+
+/cygdrive/c/Users/RENATO RODRIGUEZ/Desktop/sem4_1/p612.h
+string
+-
+algorithm
+-
+vector
+-
+iostream
+-
+
